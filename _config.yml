@@ -1,0 +1,12 @@
+title: bash-development-recommendations
+remote_theme: just-the-docs/just-the-docs@v0.6.2
+
+# URL для корректной навигации
+url: "https://Medovi.github.io/bash-development-recommendations"
+
+# Навигация в сайдбаре
+aux_links:
+  "ALT Linux": https://www.altlinux.org
+
+# Лого:
+# logo: "/assets/images/logo.png"
